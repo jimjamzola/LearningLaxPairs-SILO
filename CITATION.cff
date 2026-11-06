@@ -2,6 +2,8 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the paper and this archive."
 title: "LearningLaxPairs-SILO: code and run logs for Learning Lax Pairs: Revisiting the Classical Paradigm"
 version: 1.0.0
+doi: 10.5281/zenodo.23992657
+repository-code: "https://github.com/jimjamzola/LearningLaxPairs-SILO"
 date-released: 2026-10-29
 license: MIT
 authors:

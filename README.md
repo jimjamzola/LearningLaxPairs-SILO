@@ -1,5 +1,7 @@
 # LearningLaxPairs-SILO
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23992657.svg)](https://doi.org/10.5281/zenodo.23992657)
+
 Code and archived run logs for the SILO computations in
 
 > J. Adriazola, G. Biondini, W. Zhu, and P. G. Kevrekidis,
@@ -113,8 +115,8 @@ the record of the batch reported in the paper.
 
 ## Citation
 
-If you use this code, please cite the paper above and this archive
-(see `CITATION.cff`).
+If you use this code, please cite the paper above and this archive,
+Zenodo, doi:[10.5281/zenodo.23992657](https://doi.org/10.5281/zenodo.23992657) (see `CITATION.cff`).
 
 ## License
 
