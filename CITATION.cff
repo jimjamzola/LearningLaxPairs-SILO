@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this archive."
+title: "LearningLaxPairs-SILO: code and run logs for Learning Lax Pairs: Revisiting the Classical Paradigm"
+version: 1.0.0
+date-released: 2026-10-29
+license: MIT
+authors:
+  - family-names: Adriazola
+    given-names: Jimmie
+    affiliation: Arizona State University
+  - family-names: Biondini
+    given-names: Gino
+    affiliation: State University of New York at Buffalo
+  - family-names: Zhu
+    given-names: Wei
+    affiliation: Georgia Institute of Technology
+  - family-names: Kevrekidis
+    given-names: Panayotis G.
+    affiliation: University of Massachusetts Amherst
+preferred-citation:
+  type: article
+  title: "Learning Lax Pairs: Revisiting the Classical Paradigm"
+  journal: "Studies in Applied Mathematics"
+  year: 2026
+  authors:
+    - family-names: Adriazola
+      given-names: Jimmie
+    - family-names: Biondini
+      given-names: Gino
+    - family-names: Zhu
+      given-names: Wei
+    - family-names: Kevrekidis
+      given-names: Panayotis G.
+  identifiers:
+    - type: other
+      value: "arXiv:2607.01493"

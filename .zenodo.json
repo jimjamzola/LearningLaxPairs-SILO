@@ -1,0 +1,17 @@
+{
+  "title": "LearningLaxPairs-SILO: code and run logs for \"Learning Lax Pairs: Revisiting the Classical Paradigm\"",
+  "upload_type": "software",
+  "description": "Python scripts and archived run logs for the multi-seed SILO (Sparse Identification of Lax Operators) searches reported in Appendix A.4 of J. Adriazola, G. Biondini, W. Zhu, and P. G. Kevrekidis, Learning Lax Pairs: Revisiting the Classical Paradigm, Studies in Applied Mathematics (2026), arXiv:2607.01493. Includes exact symbolic checks with SymPy.",
+  "creators": [
+    {"name": "Adriazola, Jimmie", "affiliation": "Arizona State University"},
+    {"name": "Biondini, Gino", "affiliation": "State University of New York at Buffalo"},
+    {"name": "Zhu, Wei", "affiliation": "Georgia Institute of Technology"},
+    {"name": "Kevrekidis, Panayotis G.", "affiliation": "University of Massachusetts Amherst"}
+  ],
+  "license": "MIT",
+  "keywords": ["Lax pairs", "integrable systems", "sparse regression", "SILO", "scientific machine learning"],
+  "related_identifiers": [
+    {"identifier": "arXiv:2607.01493", "relation": "isSupplementTo", "scheme": "arxiv"}
+  ],
+  "version": "1.0.0"
+}
